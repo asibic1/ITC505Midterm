@@ -1,0 +1,54 @@
+body {
+  font-family: Copperplate, sans-serif;
+  background-color: aliceblue;
+  color: darkblue;
+  text-align: center;
+  padding: 20px;
+}
+
+#story {
+  margin: 30px auto;
+  font-size: 1.2rem;
+  max-width: 25rem;
+}
+
+#choices button {
+  font-family: Copperplate;
+  font-size: 1rem;
+  display: block;
+  margin: 15px auto;
+  padding: 20px 20px;
+  background-color: cornflowerblue;
+  color: white;
+  border-color: grey;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#choices button:hover {
+  background-color: lightslategray;
+}
+
+#adventure-image {
+  width: 300px;
+  height: auto;
+  margin-top: 20px;
+}
+
+#restart {
+  margin-top: 30px;
+  padding: 8px 16px;
+  background-color: cornflowerblue;
+  color: white;
+  border-color: grey;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#restart:hover {
+  background-color: lightslategrey;
+}
+
+footer{
+    color: darkslateblue;
+}
