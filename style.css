@@ -6,7 +6,7 @@ body {
   padding: 20px;
 }
 
-#story {
+#adventure {
   margin: 30px auto;
   font-size: 1.2rem;
   max-width: 25rem;
@@ -36,6 +36,8 @@ body {
 }
 
 #restart {
+  font-family: Copperplate;
+  font-size: 1rem;
   margin-top: 30px;
   padding: 8px 16px;
   background-color: cornflowerblue;
@@ -50,5 +52,8 @@ body {
 }
 
 footer{
+    font-size: 12px;
+    margin: 30px auto;
     color: darkslateblue;
+    padding: 20px;
 }
